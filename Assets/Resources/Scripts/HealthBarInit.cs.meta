@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 9e7b59fc5b5292741ace69e36d04cd23
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - <HPBarMiddle>k__BackingField: {fileID: 4720473835307889543, guid: ce963f55492ceac48a388f58d0ea1b60,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
